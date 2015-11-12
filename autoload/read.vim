@@ -62,7 +62,7 @@ function! read#filterop(type) abort
     endif
 
     call read#stop()
-    let pid = system(command.' '.shellescape(expr).' & echo $!')
+    let pid = system(command.' "'.shellescape(expr).'" & echo $!')
     let s:pid = substitute(pid, "\n", "", "")
   catch /^.*/
     echohl ErrorMSG | echo v:errmsg | echohl NONE

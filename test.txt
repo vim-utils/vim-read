@@ -5,8 +5,8 @@ Renewable-energy supporters wonder if China is weaning itself off of coal as
 quickly as it can, and if leaders will ever fulfill their promise of basing the
 economy on consumption, not investment.
 
-Foo
-bar
+- Foo
+- bar
 
 The species problem is a mixture of difficult related questions that often come
 up when biologists define the word "species". There are a wide range of
