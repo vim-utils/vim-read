@@ -18,7 +18,7 @@ Features:
 
 ### Mappings
 
-- `yr<motion>` - read operator (mnemonic for: "You Read <motion>")
+- `yr<motion>` - read operator (mnemonic for: "You Read \<motion>")
 - `yrr` - read the current line
 - `yrs` - stop reading (mnemonic for: "You Read Stop")
 
@@ -30,9 +30,10 @@ Visual mode mappings:
 
 Situations when I use this plugin:
 
-- checking long program input I had to type in manually, example: a long range
-  of numbers that are an input for the algorithm (`0 9 1 -4 2 11 4 8 -3 0 ...`)
-- reading an email so I can focus on how it sounds
+- checking long program input I had to type in manually, example: I wanna check
+  I correctly typed a long range of numbers that are an input for the
+  algorithm (`0 9 1 -4 2 11 4 8 -3 0 ...`)
+- reading an email I wrote so I can focus on how it sounds
 
 ### Installation
 
