@@ -1,0 +1,20 @@
+This file used for testing the plugin
+=====================================
+
+Renewable-energy supporters wonder if China is weaning itself off of coal as
+quickly as it can, and if leaders will ever fulfill their promise of basing the
+economy on consumption, not investment.
+
+Foo
+bar
+
+The species problem is a mixture of difficult related questions that often come
+up when biologists define the word "species". There are a wide range of
+approaches to defining how we identify species and how species function in
+nature, each approach is known as a species concept. The number and types of
+species concepts which exist are constantly changing, but there are at least 26
+recognized species concepts.[2] Biological reality means that a definition that
+works well for some organisms (e.g., birds) will be useless for others (e.g.,
+bacteria) particularly due to concerns regarding if the species reproduces
+asexually or sexually. The scientific study of the species problem has been
+called microtaxonomy.
